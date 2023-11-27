@@ -21,7 +21,7 @@
 
 The base or print bed is the flat surface on which the object is built during the 3D printing process. It is usually a heated platform that provides stability and adhesion for the initial layers of the print.
        
-       In Fused Deposition Modeling (FDM), the base refers to the build plate or platform upon which the 3D object is printed. It is typically a flat surface that provides stability and support during the printing process. The base is usually heated to ensure proper adhesion between the printed layers and to prevent warping or curling of the printed object. It is an essential component of the FDM printer, as it acts as the foundation for building the layers of the object.
+In Fused Deposition Modeling (FDM), the base refers to the build plate or platform upon which the 3D object is printed. It is typically a flat surface that provides stability and support during the printing process. The base is usually heated to ensure proper adhesion between the printed layers and to prevent warping or curling of the printed object. It is an essential component of the FDM printer, as it acts as the foundation for building the layers of the object.
 
 ## EXTRUDER:
 ![image](https://github.com/saiganesh2006/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742342/795850bb-fe2a-4f81-95c2-60271efec9d7)
